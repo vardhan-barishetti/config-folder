@@ -33,4 +33,4 @@ management:
 info:
   app:
     name: 'course-service'
-    description : 'This is course services'
+    description : 'This is course services bus refresh'
